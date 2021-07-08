@@ -32,6 +32,7 @@ module NEPSolver
     include("method_broyden.jl")
     include("method_ilan.jl")
     include("method_nleigs.jl")
+    include("method_nleigs_toar.jl")
 
 
 
